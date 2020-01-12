@@ -1,7 +1,7 @@
 variable "resource_group_name" {
   type        = "string"
   description = "Name of the azure resource group."
-  default = "dsreeni_rg"
+  default = "durgam_rg"
 }
 
 variable "resource_group_location" {
